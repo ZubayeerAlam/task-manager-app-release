@@ -1,18 +1,50 @@
-# task_manager
+Replace YOUR_NAME and YOUR_USERNAME with your own information.
 
-A new Flutter project.
+# Task Manager App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A Flutter application developed as part of a live class assignment.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# task-manager-app-release
+
+## Technology
+
+- Flutter
+
+- Dart
+
+
+
+## Download APK
+
+
+
+Download and install the Android application from the
+
+[GitHub Releases](https://github.com/ZubayeerAlam/task-manager-app/releases)
+
+page.
+
+
+
+## Installation
+
+1. Open the Releases page.
+
+2. Download app-release.apk from the latest release.
+
+3. Open the downloaded APK on your Android phone.
+
+4. Allow installation from this source if prompted.
+
+5. Install and launch the application.
+
+
+
+## Author
+
+Zubayeer Alam
+
+GitHub: https://github.com/ZubayeerAlam
+
